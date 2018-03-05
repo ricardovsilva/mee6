@@ -24,3 +24,5 @@ If you want to create a plugin for the bot, do not hesitate to contact me in
 
 You have to be at least a little bit familiar with **asyncio** python library 
 and with python in general.
+
+**This repository is no long mantained. Please, refeer to https://github.com/jtagt/mee6 in order to contribute or get latest version**
